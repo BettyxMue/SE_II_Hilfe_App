@@ -12,6 +12,7 @@
 - [ ] Pflichtenheft
 - [ ] User-Stories + Personas
 - [ ] ER-Modell (Makromodellierung)
+- [ ] Modulspezifikation
 
 ### Designphase
 #### Modellierung

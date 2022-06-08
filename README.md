@@ -39,3 +39,8 @@
 - [ ] Sicherheit
 - [ ] mathematische Logik
 - [ ] Entscheidungen / Entscheidungsbäume
+
+## Vorbereitung
+- [ ] PowerPoint-Präsentation
+- [ ] Dokumentation
+- [ ] Aufteilung + Probe

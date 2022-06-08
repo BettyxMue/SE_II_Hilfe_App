@@ -1,8 +1,8 @@
 # SE II: Hilfe-App
 ## Links
 - [Trello](https://link-url-here.org)
-- [PowerPoint](https://bwedu-my.sharepoint.com/:p:/r/personal/babett_mueller_bwedu_de/_layouts/15/Doc.aspx?sourcedoc=%7BDC635D9E-DA0E-4C60-BBD3-D6562F8F7D9D%7D&file=SE_II_Hilfe_App.pptx&action=edit&mobileredirect=true)
-- [Word Doku](https://bwedu-my.sharepoint.com/:w:/r/personal/babett_mueller_bwedu_de/_layouts/15/Doc.aspx?sourcedoc=%7B8F2C45A8-5DED-4DD6-BDC6-F1FBE2CFC76A%7D&file=SE_II_Hilfe_App_Doku.docx&action=default&mobileredirect=true)
+- [PowerPoint](https://bwedu-my.sharepoint.com/:p:/g/personal/babett_mueller_bwedu_de/EZ5dY9wO2mBMu9PWVi-PfZ0BoKMZNsoxCf-eLEfTO68Zcg?e=6KOF0J)
+- [Word Doku](https://bwedu-my.sharepoint.com/:w:/g/personal/babett_mueller_bwedu_de/EahFLI_tXdZNvcbx--LPx2oBljl66OWw3wLPdtVyTaJELg?e=mtJQuL)
 
 ## To-Do
 ### Planungsphase

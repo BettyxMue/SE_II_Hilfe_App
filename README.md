@@ -49,3 +49,6 @@
 - [ ] PowerPoint-Präsentation
 - [ ] Dokumentation
 - [ ] Aufteilung + Probe
+
+![grafik](https://user-images.githubusercontent.com/84374246/172787757-194f5676-8bbf-44de-ae65-a7fc2dfefa1c.png)
+

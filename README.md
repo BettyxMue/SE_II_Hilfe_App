@@ -33,7 +33,7 @@
 - [ ] Architekturziel
 - [ ] Architekturprinzip
 - [ ] Architekturart --> technischer Aufbau
-- [ ] Architektur- / Designmuster (Patterns)
+- [ ] Architektur- / Designmuster (Patterns) --> min. 1 implementieren
 
 ### Weiteres (Zuoordnung ausstehend)
 - [ ] Daten --> Verwaltung, Struktur, Anbindung, Fluss

@@ -1,6 +1,6 @@
 # SE II: Hilfe-App
 ## Links
-- [Trello](https://link-url-here.org)
+- [Trello](https://trello.com/b/KMd20AeE/se-ii-backlog)
 - [PowerPoint](https://bwedu-my.sharepoint.com/:p:/g/personal/babett_mueller_bwedu_de/EZ5dY9wO2mBMu9PWVi-PfZ0BoKMZNsoxCf-eLEfTO68Zcg?e=6KOF0J)
 - [Word Doku](https://bwedu-my.sharepoint.com/:w:/g/personal/babett_mueller_bwedu_de/EahFLI_tXdZNvcbx--LPx2oBljl66OWw3wLPdtVyTaJELg?e=mtJQuL)
 

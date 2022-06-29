@@ -6,23 +6,23 @@
 
 ## To-Do
 ### Planungsphase
-- [ ] (zeitlicher) Projektplan
-- [ ] Prototyp / Mock-Up
-- [ ] Produktplanung
-- [ ] Lastenheft
-- [ ] Beteiligte
+- [x] (zeitlicher) Projektplan
+- [x] Prototyp / Mock-Up
+- [x] Produktplanung
+- [x] Lastenheft
+- [x] Beteiligte
 
 ### Definitionsphase
-- [ ] Risiken
-- [ ] Pflichtenheft
-- [ ] User-Stories + Personas
-- [ ] ER-Modell (Makromodellierung)
+- [x] Risiken
+- [x] Pflichtenheft
+- [x] User-Stories + Personas
+- [x] ER-Modell (Makromodellierung)
 - [ ] Modulspezifikation
 
 ### Designphase
 #### Modellierung
-- [ ] Klassendiagramm (statisch)
-- [ ] Use-Case-Diagramm
+- [x] Klassendiagramm (statisch)
+- [x] Use-Case-Diagramm
 - [ ] Aktivitätsdiagramm (dynamisch, logisch)
 - [ ] Zustandsdiagramm (dynamisch, logisch)
 - [ ] Kommunikations- oder Sequenzdiagramm (dynamisch, logisch)
@@ -30,7 +30,7 @@
 - [ ] Einsatz- und Verteilungsdiagramm --> physische Architektur (Makromodellierung)
 
 ### Architektur
-- [ ] Architekturziel
+- [x] Architekturziel
 - [ ] Architekturprinzip
 - [ ] Architekturart --> technischer Aufbau
 - [ ] Architektur- / Designmuster (Patterns) --> min. 1 implementieren

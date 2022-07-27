@@ -23,32 +23,32 @@
 #### Modellierung
 - [x] Klassendiagramm (statisch)
 - [x] Use-Case-Diagramm
-- [ ] Aktivitätsdiagramm (dynamisch, logisch)
-- [ ] Zustandsdiagramm (dynamisch, logisch)
-- [ ] Kommunikations- oder Sequenzdiagramm (dynamisch, logisch)
-- [ ] Komponentendiagramm 
-- [ ] Einsatz- und Verteilungsdiagramm --> physische Architektur (Makromodellierung)
+- [x] Aktivitätsdiagramm (dynamisch, logisch)
+- [x] Zustandsdiagramm (dynamisch, logisch)
+- [x] Kommunikations- oder Sequenzdiagramm (dynamisch, logisch)
+- [x] Komponentendiagramm 
+- [x] Einsatz- und Verteilungsdiagramm --> physische Architektur (Makromodellierung)
 
 ### Architektur
 - [x] Architekturziel
-- [ ] Architekturprinzip
-- [ ] Architekturart --> technischer Aufbau
-- [ ] Architektur- / Designmuster (Patterns) --> min. 1 implementieren
+- [x] Architekturprinzip
+- [x] Architekturart --> technischer Aufbau
+- [x] Architektur- / Designmuster (Patterns) --> min. 1 implementieren
 
 ### Weiteres (Zuoordnung ausstehend)
 - [ ] Daten --> Verwaltung, Struktur, Anbindung, Fluss
-- [ ] grundlegende Funktionalitäten
-- [ ] Zustände / Prozesse
+- [x] grundlegende Funktionalitäten
+- [x] Zustände / Prozesse
 - [ ] zeitliches Verhalten einzelner Komponenten
 - [ ] Kontrollstrukturen
-- [ ] Sicherheit
+- [x] Sicherheit
 - [ ] mathematische Logik
-- [ ] Entscheidungen / Entscheidungsbäume
+- [x] Entscheidungen / Entscheidungsbäume
 
 ## Vorbereitung
-- [ ] PowerPoint-Präsentation
-- [ ] Dokumentation
-- [ ] Aufteilung + Probe
+- [x] PowerPoint-Präsentation
+- [x] Dokumentation
+- [x] Aufteilung + Probe
 
 ![grafik](https://user-images.githubusercontent.com/84374246/172787757-194f5676-8bbf-44de-ae65-a7fc2dfefa1c.png)
 
